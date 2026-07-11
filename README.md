@@ -1,3 +1,6 @@
+[![CI](https://github.com/loco-lang/loco-vim/actions/workflows/ci.yml/badge.svg)](https://github.com/loco-lang/loco-vim/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 # Loco for Vim
 
 Loco syntax highlighting for Vim (no tree-sitter required).
