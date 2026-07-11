@@ -13,5 +13,5 @@ jobs:
       - uses: actions/checkout@v4
       - name: Check files
         run: |
-          ls syntax/rail.vim ftdetect/rail.vim
+          ls syntax/loco.vim ftdetect/loco.vim
           echo "All files present"
